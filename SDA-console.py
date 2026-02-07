@@ -35,7 +35,7 @@ def print_banner():                                                   print(f"""
    ╚════██║██╔  ██  ██╔═██║       ██      <<<
    ███████║██████══©╝║  █║       :██║
    ╚══════╝╚═╝     ╚═╝  ╚═╝From:  ╚═╝ ╚═╝╚═╝╚═╝╚═╝╚═
-═══╝ ╚══╝╚══╝ ***** ═╝ ╚═╝ [ Timo Sarvilahti @ CYBER DEFENCE SYSTEMS ]
+═══╝ ╚══╝╚══╝ ***** ═╝ ╚═╝ [ Timo Sarvilahti CYBER DEFENCE SYSTEMS ]
 
    VULNERABILITY ANALYSIS + RISK + FINANCIAL THREAT ASSESSMENT
    Strategical & Operational Cyber Solutions >>>
