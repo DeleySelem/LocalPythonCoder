@@ -4,6 +4,7 @@ Setup python AI coder installer.
 SDA Framework - Security Developer's Assistant
 
 For Website Developers as Proof-of-Work security:
+
 https://img.shields.io/badge/SDA-Framework-blue
 https://img.shields.io/badge/Version-1.0-green
 https://img.shields.io/badge/Python-3.7%2B-yellow
