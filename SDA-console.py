@@ -37,7 +37,7 @@ def print_banner():                                                   print(f"""
    ╚══════╝╚═╝     ╚═╝  ╚═╝From:  ╚═╝ ╚═╝╚═╝╚═╝╚═╝╚═
 ═══╝ ╚══╝╚══╝ ***** ═╝ ╚═╝ [ @ 2026 CYBER DEFENCE SYSTEMS ]
 
-   SIGINT + HUMINT + VULN/RISK ASSESSMENT
+   VULNERABILITY ANALYSIS + RISK + FINANCIAL THREAT ASSESSMENT
    Strategical & Operational Cyber Solutions >>>
 
    {Colors.YELLOW}System Vulnerability Research and Fix Tool v1.0{Colors.END}
