@@ -3,6 +3,17 @@ Setup python AI coder installer.
 
 SDA Framework - Security Developer's Assistant
 
+Developer sinserely hopes official authorised personnel to do testing with this framework and send reports and improvement ideas to koottinen7@gmail.com
+
+I am not legitimately authorised to use this tool. 
+
+(Coming: Affordable GSM surveillance tools for lawfully inspection with improved stealth to Mitchell protocol, SS7, Diam2e2 usage avoiding detectable signatures. 
+Future tools target:
+-Advanced Criminal Intelligence
+-Revolutional Signal Processing tools
+-Stealth Passive Tomography Radar Systems
+ 
+
 https://img.shields.io/badge/SDA-Framework-blue
 https://img.shields.io/badge/Version-1.0-green
 https://img.shields.io/badge/Python-3.7%2B-yellow
@@ -291,7 +302,7 @@ Usage Terms
 3. No redistribution without attribution
 4. Maintain original copyright notices
 
-Copyright@2026.Sarvilahti
+Copyright@2026TimoSarvilahti
 
 © 2026 Cyber Defence Systems
 
