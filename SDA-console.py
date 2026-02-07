@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 SDA - FRAMEWORK
-System vulnerability research and fix tool.
+System vulnerability research and fix advices tool.
 Educational tool for security analysis.
 """
 
